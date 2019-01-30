@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+  <channel>
+    <title>Stalk-er detective agency</title>
+    <link>https://stalk-er.000webhostapp.com/index.html</link>
+    <description>Best imaginary detective agency around!</description>
+    
+    <item>
+      <title>Stalk-er detective agency | - News -</title>
+        <link>https://stalk-er.000webhostapp.com/index.html#news</link>
+      <description>MISSING: This person is missing. If you have any information about him please contact: +38164022006</description>
+    </item>
+  </channel>
+
+</rss>
